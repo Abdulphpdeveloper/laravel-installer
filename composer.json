@@ -1,0 +1,21 @@
+{
+  "name": "abdulrahim/laravel-installer",
+  "description": "Laravel web installer",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rahim",
+      "email": "abdulrahim@trioangle.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Abdulrahim\\LaravelInstaller\\": "src/"
+    },
+    "files": [
+      "src/functions.php"
+    ]
+  },
+  "minimum-stability": "stable"
+}
