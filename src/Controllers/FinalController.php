@@ -1,9 +1,9 @@
 <?php
 
-namespace RachidLaasri\LaravelInstaller\Controllers;
+namespace AbdulRahim\LaravelInstaller\Controllers;
 
 use Illuminate\Routing\Controller;
-use RachidLaasri\LaravelInstaller\Helpers\InstalledFileManager;
+use AbdulRahim\LaravelInstaller\Helpers\InstalledFileManager;
 
 class FinalController extends Controller
 {
