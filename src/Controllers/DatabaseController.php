@@ -1,10 +1,10 @@
 <?php
 
-namespace AbdulRahim\LaravelInstaller\Controllers;
+namespace RachidLaasri\LaravelInstaller\Controllers;
 
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Validator;
-use AbdulRahim\LaravelInstaller\Helpers\DatabaseManager;
+use RachidLaasri\LaravelInstaller\Helpers\DatabaseManager;
 use Input;
 use Hash;
 use App\Models\SiteSettings;
